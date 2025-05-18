@@ -32,7 +32,6 @@ Visit our [releases](https://github.com/mogumc/MGL/releases) page and download t
 You can choose either the packaged installer or the portable version. Run ``MuiltGameLaunch.exe`` in the installation directory to start the program.
 
 ## Features
-- Multi-threaded update   
 - Custom themes  
 - Game time records  
 - Add custom games  
