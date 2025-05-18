@@ -1,7 +1,7 @@
 # Muilt Game Launch
 One-stop fast game launcher and updater
-Built with wails + Vue + Go, providing low resource usage and high-performance game update and launch 
-ZH(https://github.com/mogumc/MGL/blob/main/README.md)|EN
+Built with wails + Vue + Go, providing low resource usage and high-performance game update and launch   
+[ZH](https://github.com/mogumc/MGL/blob/main/README.md)|EN
 
 ## Getting Started  
 ### A) Compile it yourself
