@@ -1,4 +1,4 @@
-# Muilt Game Launch
+# Muilt Game Launcher
 One-stop fast game launcher and updater
 Built with wails + Vue + Go, providing low resource usage and high-performance game update and launch   
 [ZH](https://github.com/mogumc/MGL/blob/main/README.md)|EN
