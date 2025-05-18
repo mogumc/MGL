@@ -1,6 +1,6 @@
 # Muilt Game Launcher
 一站式游戏启动器  
-使用wails+Vue+Go构建,提供低占用高性能游戏更新启动  
+使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  
 ZH|[EN](https://github.com/mogumc/MGL/blob/main/docs/README_EN.md)
 
 ## 开始
