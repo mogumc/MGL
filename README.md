@@ -37,11 +37,6 @@ wails build
 - 游戏时长记录
 - 添加自定义游戏
 
-## 找到你需要的游戏配置
-你可以自行编写游戏配置或使用我们预置的游戏配置.  
-更多详情请访问[MGL_Res](https://github.com/mogumc/MGL_Res)  
-也欢迎大家为该仓库提供建设.
-
 ## License
 [MGL](https://github.com/mogumc/MGL) GPL-3.0 license  
 [wails](https://github.com/wailsapp/wails)  MIT License  
