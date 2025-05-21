@@ -6,9 +6,20 @@
 <div align="center">
   <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
   <a href="https://github.com/mogumc/MGL/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mogumc/MGL?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
-    <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
-    <h3>One-stop game launcher <a href="https://github.com/mogumc/MGL/blob/main/README.md">ZH</a>|EN</h3>  
+      <a href="../LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/mogumc/MGL"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="Visitor statistics" />
+    <h3>One-stop game launcher</h3>
     <h3>Built with wails + Vue + Go, providing low resource usage and high-performance game launch</h3>
+    
+<strong>
+<samp>
+
+[English](README_EN.md) · [简体中文](../README.md)
+
+</samp>
+</strong>
 </div>
 
 <br/>
