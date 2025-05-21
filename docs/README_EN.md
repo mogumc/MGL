@@ -11,7 +11,7 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="Visitor statistics" />
     <h3>One-stop game launcher</h3>
-    <h3>Built with wails + Vue + Go, providing low resource usage and high-performance game launch</h3>
+    <h3>Built with wails + Vue + Go, a low resource usage and high-performance game launcher</h3>
     
 <strong>
 <samp>
