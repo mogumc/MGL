@@ -4,10 +4,14 @@
 </div>
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
-  <a href="https://github.com/mogumc/MGL/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mogumc/MGL?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
+    <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
+    <a href="https://github.com/mogumc/MGL/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mogumc/MGL?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
+    <a href="./LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/mogumc/MGL"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
-    <h3>一站式游戏启动器 ZH|<a href="https://github.com/mogumc/MGL/blob/main/docs/README_EN.md">EN</a></h3>  
+    <h3>一站式游戏启动器</h3>
+    <h3><a href="./README.md">ZH</a>·<a href="./docs/README_EN.md">EN</a></h3>  
     <h3>使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  </h3>
 </div>
 
