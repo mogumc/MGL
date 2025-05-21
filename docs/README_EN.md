@@ -1,7 +1,17 @@
-# Muilt Game Launcher
-One-stop game launcher
-Built with wails + Vue + Go, providing low resource usage and high-performance game launch   
-[ZH](https://github.com/mogumc/MGL/blob/main/README.md)|EN
+<div align="center">
+    <img src="../docs/icon.png" width="200">
+    <h1>Muilt Game Launcher</h1>
+</div>
+
+<div align="center">
+  <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
+  <a href="https://github.com/mogumc/MGL/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mogumc/MGL?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
+    <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
+    <h3>One-stop game launcher <a href="https://github.com/mogumc/MGL/blob/main/README.md">ZH</a>|EN</h3>  
+    <h3>Built with wails + Vue + Go, providing low resource usage and high-performance game launch</h3>
+</div>
+
+<br/>
 
 ## Getting Started  
 ### A) Compile it yourself
