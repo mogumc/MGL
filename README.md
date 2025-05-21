@@ -16,7 +16,7 @@
 <strong>
 <samp>
 
-[English](../README_EN.md) · [简体中文](README.md)
+[English](./docs/README_EN.md) · [简体中文](README.md)
 
 </samp>
 </strong>
