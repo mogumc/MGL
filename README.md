@@ -3,12 +3,15 @@
     <h1>Muilt Game Launcher</h1>
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
+  <a href="https://github.com/mogumc/MGL/releases"><img alt="Release" src="https://img.shields.io/github/v/release/mogumc/MGL?logo=visualstudio&style=flat-square&color=1E9BFA"></a>
+    <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
+    <h3>一站式游戏启动器 ZH|<a href="https://github.com/mogumc/MGL/blob/main/docs/README_EN.md">EN</a></h3>  
+    <h3>使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  </h3>
+</div>
 
-# Muilt Game Launcher
-一站式游戏启动器  
-使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  
-ZH|[EN](https://github.com/mogumc/MGL/blob/main/docs/README_EN.md)
+<br/>
 
 ## 开始
 ### A)自行编译
