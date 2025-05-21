@@ -11,8 +11,15 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
     <h3>一站式游戏启动器</h3>
-    <h3><a href="./README.md">ZH</a>·<a href="./docs/README_EN.md">EN</a></h3>  
     <h3>使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  </h3>
+    
+<strong>
+<samp>
+
+[English](README_EN.md) · [简体中文](../README.md)
+
+</samp>
+</strong>
 </div>
 
 <br/>
