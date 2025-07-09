@@ -11,7 +11,7 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
     <h3>一站式游戏启动器</h3>
-    <h3>使用wails+Vue+Go构建,提供低占用高性能游戏启动体验  </h3>
+    <h3>使用wails+Vue+Go构建,更接近Steam体验的低占用高性能游戏启动器  </h3>
     
 <strong>
 <samp>
@@ -62,7 +62,8 @@ wails build
 [MGL](https://github.com/mogumc/MGL) GPL-3.0 license  
 [wails](https://github.com/wailsapp/wails)  MIT License  
 [Vue3](https://github.com/vuejs/core) MIT License  
-[Element-Plus](https://github.com/element-plus/element-plus) MIT License 
+[Element-Plus](https://github.com/element-plus/element-plus) MIT License  
+本项目图标来自`豆包` 版权归字节跳动所有
 
 
 
