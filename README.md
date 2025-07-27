@@ -11,7 +11,7 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
     <h3>一站式游戏启动器</h3>
-    <h3>使用wails+Vue3+Go构建,更接近Steam体验的低占用高性能游戏启动器  </h3>
+    <h3>使用wails2+Vue3+Go构建,更接近Steam体验的低占用高性能游戏启动器  </h3>
     
 <strong>
 <samp>
