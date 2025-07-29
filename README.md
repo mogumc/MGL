@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./docs/icon.png" width="200">
-    <h1>Muilt Game Launcher</h1>
+    <h1>Multi Game Launcher</h1>
 </div>
 
 <div align="center">
