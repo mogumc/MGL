@@ -57,6 +57,10 @@ You can choose either the packaged installer or the portable version. Run ``Muil
 - Game time records  
 - Add custom games  
 
+## FaQ
+If you have any questions or issues, please post them in the group [@KinhWeb](https://t.me/kinhweb), or submit an Issue in this repository.  
+Follow the channel [@KinhWebPD](https://t.me/kinhwebpd) to receive the latest update information. 
+
 ## License
 [MGL](https://github.com/mogumc/MGL) GPL-3.0 license  
 [wails](https://github.com/wailsapp/wails)  MIT License  
