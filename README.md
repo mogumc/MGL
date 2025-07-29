@@ -58,6 +58,10 @@ wails build
 - 游戏时长记录
 - 添加自定义游戏
 
+## FaQ
+如果有任何使用问题请在群组[@KinhWeb](https://t.me/kinhweb)提出,或者在本仓库下提交Issue.  
+关注频道[@KinhWebPD](https://t.me/kinhwebpd)获取最新更新信息.  
+
 ## License
 [MGL](https://github.com/mogumc/MGL) GPL-3.0 license  
 [wails](https://github.com/wailsapp/wails)  MIT License  
